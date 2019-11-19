@@ -1,6 +1,22 @@
-# Git Receipes
+# Git Recipes
 
-## Show all Versions of a file
+## Repositories
+
+### Add a remote repository
+
+```
+git remote add {repository}
+```
+
+### Remove a remote repository
+
+```
+git remote remove origin
+```
+
+## Explain
+
+### Show all Versions of a file
 
 ```
     git log --format="%H" $FILENAME
@@ -13,7 +29,7 @@
 
 ```
 
-## Add all unversioned Files
+### Add all unversioned Files
 
 
 ```
