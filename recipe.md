@@ -16,11 +16,19 @@ git push --set-upstream origin master
 git remote remove origin
 ```
 
+## User Credentials
+
 ### Add Username and Passord when cloning
 
 ```
 git clone https://username:password@github.com/username/repository.git
 ```
+## Store the User Credentials a certain time
+
+```
+git config --global credential.helper "cache --timeout=3600"
+```
+
 
 ## Explain
 
