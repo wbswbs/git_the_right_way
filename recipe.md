@@ -16,6 +16,12 @@ git push --set-upstream origin master
 git remote remove origin
 ```
 
+### Add Username and Passord when cloning
+
+```
+git clone https://username:password@github.com/username/repository.git
+```
+
 ## Explain
 
 ### Show all Versions of a file
