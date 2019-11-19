@@ -2,10 +2,12 @@
 
 ## Repositories
 
-### Add a remote repository
+### Add a remote repository as Default
 
 ```
-git remote add {repository}
+git remote add origin {repository}
+# Set as Default Upstream
+git push --set-upstream origin master
 ```
 
 ### Remove a remote repository
