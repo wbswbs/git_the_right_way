@@ -1,6 +1,6 @@
-# Git - The right Way
+# Git - The Right Way
 
-Git Tutorial, Best Practices and Receipes
+Git Tutorial, Best Practices and Recipes
 
 This is a starting point for the work with git
 
