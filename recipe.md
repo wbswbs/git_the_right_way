@@ -17,5 +17,5 @@
 
 
 ```
-git add -u :/
+git add --all
 ```
