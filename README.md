@@ -1,4 +1,4 @@
-# Git - The Right Way
+# Git - How to use
 
 Git Tutorial, Best Practices and Recipes
 
@@ -19,3 +19,7 @@ It was founded by Linus Torwalds
 - [recipe.md](recipe.md)
 - [workflow.md](workflow.md)
 
+# Ressources
+
+- [Wikipedia](https://www.wikipedia.org/wiki/Git)
+- [Pascals Rebase Book](https://gumroad.com/l/rebase-book)

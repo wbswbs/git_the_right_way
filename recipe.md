@@ -55,3 +55,11 @@ git add --all
 ```
 
 [Back to start](README.md)
+
+## GitHub
+
+### Add a Licence to the Repository
+
+- Go to your repository's **Insights** tab
+- Click **Community** on the left side
+- On the right side, click **Add** on the line wich says **License**
