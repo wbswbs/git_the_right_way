@@ -18,6 +18,7 @@ It was founded by Linus Torwalds
 - [question.md](question.md)
 - [recipe.md](recipe.md)
 - [workflow.md](workflow.md)
+- [git_im_team.md](git_im_team.md)
 
 # Ressources
 
