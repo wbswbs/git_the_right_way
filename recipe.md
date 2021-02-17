@@ -31,6 +31,14 @@ git clone https://username:password@github.com/username/repository.git
 git config --global credential.helper "cache --timeout=3600"
 ```
 
+## How do I make Git ignore file mode chmod changes
+
+http://stackoverflow.com/questions/1580596/ddg#1580644
+Try:
+
+```
+git config core.fileMode false
+```
 
 ## Explain
 
