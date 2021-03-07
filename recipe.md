@@ -7,9 +7,20 @@
 ### Add a remote repository as Default
 
 ```
-git remote add origin {repository}
+# Remote hinzufügen
+# git remote add {name} {repository}
+git remote add wbsgithub git@github.com:wbswbs/qs.git
+
+# Hochspieln
+git push wbsgithub 
+
+# Remote als Dfeualt -u = update origin
 # Set as Default Upstream
-git push --set-upstream origin master
+# git push --set-upstream origin master
+git push -u wbsgithub 
+
+#Remotes anzeigen
+git remote -v
 ```
 
 ### Remove a remote repository
